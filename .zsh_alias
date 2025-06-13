@@ -1,0 +1,7 @@
+alias k="kubectl"
+alias kx="kubectx"
+alias ns="kubens"
+alias galn="gcloud auth login"
+alias kgvs="kubectl get virtualservice"
+alias kgdr="kubectl get destinationrule"
+alias g="gcloud"
